@@ -1,0 +1,11 @@
+# Video dữ liệu gốc không đưa lên Git.
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.AVI
+*.mkv
+*.MKV
+*.m4v
+*.M4V
